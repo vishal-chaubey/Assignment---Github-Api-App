@@ -10,17 +10,23 @@ body {
   align-items: center;
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #f5b562;
+  background-color: #0a0a0a;
   color: darkgreen;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h2{
-   margin-bottom: 30px;
-   text-align: right;
+   margin-bottom: 10px;
    font-size: 30px; 
    font-weight: 200;
-   
 }
+p{
+    margin-bottom: 20px;
+    font-size: 16px; 
+    font-weight: 200;
+ }
+ span{
+     color: rgb(9, 222, 250);
+ }
 
 .text-center {
   width: 100%;
