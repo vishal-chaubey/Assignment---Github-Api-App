@@ -7,8 +7,8 @@ const urlValue = document.querySelector(".profile-url");
 const locationValue = document.querySelector(".profile-location");
 const Ifnotfound = document.querySelector("#demo");
 
-const Client_id = "Iv1.eeeaf0a5140791ba";
-const client_secret = "086b2d43fe0eba257fb8b2b903c4b3caf782ea49";
+const Client_id = "you have to enter your's";
+const client_secret = "you have to enter your's";
 
 var usersData = async (user) => {
         
